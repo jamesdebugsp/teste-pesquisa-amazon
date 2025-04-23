@@ -46,7 +46,7 @@ Avaliar a experiência do usuário na pesquisa de produtos e utilização de fil
 
 **James Oliveira**  
 🔎 QA em formação | Testes Manuais | Testes Exploratório  
-📧 Contato: [LinkedIn](https://www.linkedin.com/in/james-rodrigo/) *(ou outro link que quiser incluir)*
+📧 Contato: [LinkedIn](https://www.linkedin.com/in/james-rodrigo/) 
 
 ---
 
