@@ -1,62 +1,53 @@
-# Teste Exploratórios - Funcionalidade de Pesquisa e Filtros de Produtos na Amazon Brasil
+# 🧪 Teste de Funcionalidade - Pesquisa e Filtros na Amazon Brasil
 
-**Nome:** James Oliveira  
-**Data do Teste:** 23/04/2025  
-**Duração:** 17:01 às 18:14  
-**Ambiente:**  
-- Sistema Operacional: Windows 10 Pro  
-- Navegador: Google Chrome 91  
-- Site: [Amazon Brasil](https://www.amazon.com.br)  
+Este repositório contém um relatório de testes exploratórios realizados na funcionalidade de **busca por palavra-chave** e **aplicação de filtros** no site da [Amazon Brasil](https://www.amazon.com.br).
 
 ---
 
-## 🎯 Propósito da Exploração
+## 📌 Objetivo
 
-Avaliar a funcionalidade de pesquisa por palavra-chave e filtros de produtos no site da Amazon Brasil, verificando se os resultados são coerentes e relevantes com base nos critérios aplicados.
-
----
-
-## 🔍 Testes Realizados
-
-- Pesquisa por diferentes palavras-chave.
-- Aplicação de filtros por:
-  - Categoria de produtos
-  - Faixa de preço
-  - Avaliação (estrelas)
-- Verificação dos resultados:
-  - Coerência com os filtros aplicados
-  - Precisão nos produtos retornados
+Avaliar a experiência do usuário na pesquisa de produtos e utilização de filtros por categoria, faixa de preço e avaliação. O intuito foi verificar a consistência dos resultados e identificar possíveis melhorias ou falhas na usabilidade.
 
 ---
 
-## 🧠 Estratégia Utilizada
+## 🧪 Tipo de Teste
 
-- Teste exploratório focado nas funcionalidades de busca e filtragem.
-- Navegação livre e análise dos dados retornados pelo sistema.
-
----
-
-## ❌ Erros Encontrados
-
-Nenhum erro crítico foi identificado.  
-Todos os filtros e pesquisas retornaram resultados coerentes com os critérios definidos.
+- Teste Exploratório Manual
+- Foco: Funcionalidade de busca e filtros
+- Navegação direta e análise dos dados exibidos
 
 ---
 
-## ❓ Questionamentos
+## 💻 Ambiente de Teste
 
-- O site exibe os produtos corretamente com base nos filtros aplicados?  
-- Os filtros são intuitivos e os resultados são fáceis de entender?
-
----
-
-## ✅ Conclusão
-
-O site da Amazon Brasil está funcionando corretamente em relação às funcionalidades de busca e filtros.  
-Os testes confirmaram que os resultados retornados são adequados conforme as palavras-chave e filtros definidos.
+- **Sistema:** Windows 10 Pro  
+- **Navegador:** Google Chrome 91  
+- **Plataforma testada:** [www.amazon.com.br](https://www.amazon.com.br)  
+- **Data do teste:** 23/04/2025  
 
 ---
 
-## 📝 Informações Adicionais
+## 📄 Relatório
 
-O comportamento do site manteve-se estável durante toda a sessão de testes. Nenhuma instabilidade ou inconsistência foi observada.
+📥 Acesse o relatório completo aqui:  
+➡️ [`relatorio-teste-amazon.md`](./relatorio-teste-amazon.md)
+
+---
+
+## ✅ Resultados
+
+- Nenhum erro crítico identificado
+- Filtros e pesquisa funcionando corretamente
+- Resultados coerentes com os critérios definidos
+
+---
+
+## 👤 Autor
+
+**James Oliveira**  
+🔎 QA em formação | Testes Manuais | Testes Exploratório  
+📧 Contato: [LinkedIn](https://www.linkedin.com/in/jamesdebugsp) *(ou outro link que quiser incluir)*
+
+---
+
+
